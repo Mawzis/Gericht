@@ -6,7 +6,7 @@ import HomePage from './pages/HomePage';
 import Pages from './pages/Pages';
 import ContactUs from './pages/ContactUs';
 import Blog from './pages/Blog';
-import Footer  from './components/footer';
+import Footer  from './components/Footer';
 import ReserveRight from './components/ResrveRight';
 
 import {
