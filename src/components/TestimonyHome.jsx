@@ -1,6 +1,6 @@
 import blackSmile from "../assets/images/testimonyImages/blackSmile.png"
 import jeanSmile from "../assets/images/testimonyImages/jeanSmile.png"
-import redSmile from "../assets/images/testimonyImages/redSmile.png"
+import redSmile from "../assets/images/testimonyImages/redsmile.png"
 import whiteSmile from "../assets/images/testimonyImages/whiteSmile.png"
 
 
